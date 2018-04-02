@@ -1,2 +1,2 @@
 # helloWorld
-first hello world learnig git
+first hello world learning git editing
